@@ -1,0 +1,24 @@
+{
+  "name": "be-weathercli-Req",
+  "version": "1.0.0",
+  "description": "Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-weathercli-Req.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-weathercli-Req/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-weathercli-Req#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
